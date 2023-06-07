@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "9ee9d023-d62b-4b44-9a97-2dd47c5e0bb5",
+      "description": "Teste",
+      "dueDate": "2023-06-15T03:00:00.000Z",
+      "priority": "Medium"
+    },
+    {
+      "id": "122d75b5-1cdd-46ee-b355-db161c28d839",
+      "description": "dsadasdasd",
+      "dueDate": "2023-06-06T03:00:00.000Z",
+      "priority": "High"
+    }
+  ]
+}
