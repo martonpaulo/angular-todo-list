@@ -17,7 +17,7 @@ To run the project locally, follow these steps:
 1. Install dependencies by running `npm install`;
 2. Start the server by navigating to the `server/` directory and running `npm run server`;
 3. Start the web application by navigating to the `web/` directory and running `npm run web`;
-4. Open your web browser and navigate to `http://localhost:4200/`.
+4. Open your web browser and navigate to http://localhost:4200/.
 
 ## Challenges
 
