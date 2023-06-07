@@ -2,6 +2,10 @@
 
 This project is an Angular application that provides a page for listing and managing todo items. Each item consists of a description, a due date, and a priority. The page allows filtering of the items based on their description and/or priority.
 
+<p align="center">
+  <img src="./screenshot.png">
+</p>
+
 ## Development Process
 
 The project was developed using Angular, Angular Material, Express, Node.js, and flat file storage. The development followed a mobile-first approach and utilized SCSS for styling. API calls were made using RxJS. The SCSS styles followed the BEM (Block Element Modifier) and OOCSS (Object-Oriented CSS) methodologies.
